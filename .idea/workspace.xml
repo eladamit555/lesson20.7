@@ -1,14 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d2b28fe-e7fa-41d3-8eba-25fd9bb09f7e" name="Changes" comment="" />
+    <list default="true" id="9d2b28fe-e7fa-41d3-8eba-25fd9bb09f7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson20-7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson20-7/exercise1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lesson20-7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lesson20-7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "eladamit555"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/eladamit555/lesson20-7.git",
+    "accountId": "cf23a373-d230-4fe7-9893-0a31c67e819d"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000001554116147" />
+      <entry key="S2" value="1.0248993991381192" />
+      <entry key="S5" value="1.3964902258878866" />
+      <entry key="S10" value="2.162904113623373" />
+      <entry key="S30" value="3.591997364706343" />
+      <entry key="S60" value="4.211551160060569" />
+      <entry key="M2" value="4.661913224365727" />
+      <entry key="M5" value="6.644924004113911" />
+      <entry key="M10" value="12.08615225284531" />
+      <entry key="M15" value="18.08057600411388" />
+      <entry key="M30" value="33.106579858679176" />
+      <entry key="H1" value="49.395192277343995" />
+      <entry key="H2" value="61.93519609800155" />
+      <entry key="H4" value="69.80214394552054" />
+      <entry key="D1" value="77.36459468215386" />
+      <entry key="W1" value="78.76371988292743" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="7.843378198976622E-202" />
+      <entry key="S10" value="2.800603186575607E-101" />
+      <entry key="S30" value="3.0393924999508903E-34" />
+      <entry key="S60" value="1.793491428530097E-17" />
+      <entry key="M2" value="4.88757444275771E-9" />
+      <entry key="M5" value="6.642877593326106E-4" />
+      <entry key="M10" value="0.035904609707127055" />
+      <entry key="M15" value="0.1366531333542311" />
+      <entry key="M30" value="0.5218844605150853" />
+      <entry key="H1" value="1.0212075202619113" />
+      <entry key="H2" value="1.4289759521190177" />
+      <entry key="H4" value="1.690501987763461" />
+      <entry key="D1" value="1.9447299780249359" />
+      <entry key="W1" value="1.99200895333293" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.04703896085659584" />
+      <entry key="MS500" value="0.5426146862870851" />
+      <entry key="S2" value="0.8642497989097788" />
+      <entry key="S5" value="1.1859186228063865" />
+      <entry key="S10" value="1.9138830628966643" />
+      <entry key="S30" value="3.430583117069717" />
+      <entry key="S60" value="4.115462311052115" />
+      <entry key="M2" value="4.608990221815084" />
+      <entry key="M5" value="6.618895891886593" />
+      <entry key="M10" value="12.101901780956434" />
+      <entry key="M15" value="18.198677317224323" />
+      <entry key="M30" value="33.61251671438075" />
+      <entry key="H1" value="50.40471104214276" />
+      <entry key="H2" value="63.35688094199055" />
+      <entry key="H4" value="71.48854425979935" />
+      <entry key="D1" value="79.30856776089622" />
+      <entry key="W1" value="80.75561876807497" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2,
@@ -22,12 +116,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.exercise1.executor": "Run",
+    "Python.exercise2.executor": "Run",
+    "Python.exercise3.executor": "Run",
+    "Python.exercise4.executor": "Run",
+    "Python.exercise5.executor": "Run",
+    "Python.exercise6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -46,11 +151,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1784560886878</updated>
-      <workItem from="1784560887927" duration="2000" />
+      <workItem from="1784560887927" duration="4258000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lesson20_7$exercise2.coverage" NAME="exercise2 Coverage Results" MODIFIED="1784563277750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lesson20_7$exercise1.coverage" NAME="exercise1 Coverage Results" MODIFIED="1784562598592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lesson20_7$exercise3.coverage" NAME="exercise3 Coverage Results" MODIFIED="1784564579261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lesson20_7$exercise5.coverage" NAME="exercise5 Coverage Results" MODIFIED="1784565094638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lesson20_7$exercise4.coverage" NAME="exercise4 Coverage Results" MODIFIED="1784564583206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lesson20_7$exercise6.coverage" NAME="exercise6 Coverage Results" MODIFIED="1784564640027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
