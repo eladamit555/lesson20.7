@@ -1,7 +1,7 @@
 #start
 number_of_classes = int(input('how many classes?'))
 i = 1
-while number_of_classes > 0:
+while i <= number_of_classes:
     number_of_classes -= 1
     number_of_students = 0
     grade = 0
