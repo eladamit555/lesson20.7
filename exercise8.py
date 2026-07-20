@@ -1,5 +1,6 @@
 #start
 number_of_classes = int(input('how many classes?'))
+i = 1
 while number_of_classes > 0:
     number_of_classes -= 1
     number_of_students = 0
@@ -22,8 +23,9 @@ while number_of_classes > 0:
         print('no students')
     else:
         avg = sum_grades / number_of_students
-        print('class number:')
+        print('class number:', i)
         print('average grade of class ...', avg)
+    i += 1
 
 
 #stop
